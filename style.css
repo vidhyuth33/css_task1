@@ -1,0 +1,98 @@
+h1{
+	color:blue;
+	text-align:center;
+	text-shadow:2px 2px 15px #000000;
+}
+h2{
+	color:red;
+	text-shadow:2px 2px 4px;
+}
+body{
+	background-color:rgba(192,192,192,0.2);
+}
+h4{
+	text-decoration:underline;
+	text-decoration-style:double;
+	color:rgb(62, 66, 179);
+	text-decoration-color:#b33e97;
+}
+.text-color{
+	color:red;
+}
+section{
+	border:red;
+	border-style:solid;
+	padding:10px;
+	margin-bottom:30px;
+}
+.text-align-left{
+	text-align:left;
+}
+.text-align-right{
+	text-align:right;
+}
+.text-align-center{
+	text-align:center;
+}
+.text-align-justify{
+	text-align:justify;
+}
+.text-direction{
+	direction:rtl;
+	unicode-bidi:bidi-override;
+}
+p span .vertical-align-baseline{
+	vertical-align:baseline;
+}
+p > span.vertical-align-top{
+	vertical-align:top;
+	font-size:10px;
+}
+p > span.vertical-align-bottom{
+	vertical-align:bottom;
+	font-size:10px;
+}
+p > span.vertical-align-sub{
+	vertical-align:sub;
+}
+p span.vertical-align-super{
+	vertical-align:super;
+}
+p.overline{
+	text-decoration:overline;
+}
+p.line-through{
+	text-decoration:line-through;
+}
+.underline{
+	text-decoration: underline;
+    text-decoration-color: red;
+}
+.overline_underline{
+	text-decoration:overline underline;
+	text-decoration:
+}
+.it_me{
+	text-transform:uppercase;
+}
+.it_me1{
+	text-transform:lowercase;
+}
+.capitalize{
+	text-transform:capitalize;
+}
+.indent{
+	text-indent:50px;
+}
+.spacing{
+	letter-spacing:2px;
+}
+.height{
+	line-height:12px;
+}
+.word_space{
+	word-spacing:5px;
+}
+.white_space{
+	white-space:nowrap;
+}
